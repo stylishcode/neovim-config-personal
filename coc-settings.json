@@ -1,0 +1,6 @@
+{
+  "tsserver.implicitProjectConfig.checkJs": true,
+  "typescript.autoClosingTags": true,
+  "typescript.preferences.quoteStyle": "double",
+  "javascript.preferences.quoteStyle": "double"
+}
